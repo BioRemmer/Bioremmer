@@ -58,17 +58,20 @@ Bolger, A. M., Lohse, M. & Usadel, B. Trimmomatic: A flexible trimmer for Illumi
 ## Workflow
 
 ## Invoking BioremDatabase
-
-## Choose the names of the output files
-% pipeline_full.sh 
+```
+./pipeline_full.sh R1.fastq.gz R2.fastq.gz
+```
 
 ## Output Files
 | File | Description |
 | --------- | ----------- |
-|fastqc.html| quality control report |
-|VGF_tree.nwk| Phylogenomic tree |
-| rarefaction_out.level_6.txt| Detection of bacteria with 16S  |
-| cog_frequencies.csv| Table of COGS frequenc |
+| fastqc.html | quality control report |
+| VGF_tree.nwk | Phylogenomic tree |
+| rarefaction_out.level_6.txt | Detection of bacteria with 16S  |
+| cog_frequencies.csv | Table of COGS frequenc |
 | taxonomic_abundance.png | stacked barplot of COGS frequency|
 | Orthologous_groups.png | barplot of COGs by Categories|
 
+## Autor
+* Jose Cano
+*  Web: https://github.com/BioremDatabase/
