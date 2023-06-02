@@ -4,6 +4,8 @@
 
 To address the identification of a bacterial functional profile capable of degrading a specific plastic, we developed a pipeline named BioremDatabase.  Making use of a bioinformatic workflow, consisting of a pipeline that takes high-throughput sequencing data sets as input to perform a complete analysis that reports the biological capacity to participate in the biodegradation processes of plastics, identifying and classifying the bacterial abundance, as well as assessing the functional profile and locating the enzymes that degrade the different plastics. Users can generate insights by analyzing their data sets for the presence of potential plastic-degrading bacteria and enzymes, and thus design strategies to improve bioremediation of environments contaminated by different plastic waste.
 
+![alt text](https://drive.google.com/open?id=1pJl56dglmbe9iMpZPmsVWsTghidClJU2&usp=drive_copy)
+
 ## Installation of BioremDatabase
 ### Virtual machine
 * Download VM [gdrive](https://drive.google.com/file/d/1z9mKT0Hhn0fSt_tcEsnuSFEelc6FSERV/view?usp=drive_link)
